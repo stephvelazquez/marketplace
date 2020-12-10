@@ -1,4 +1,4 @@
-# Marketplace
+# Marketplace -- Nava Frontend Exercise
 
 ## To run locally:
 
